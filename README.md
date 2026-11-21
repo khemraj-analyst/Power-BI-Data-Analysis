@@ -61,7 +61,8 @@ This project explores salary trends, programming language preferences, job roles
 ## 📂 Project Files
 
 - `Power-BI-Project.pbix` — Complete interactive Power BI dashboard.
-- `screenshots/dashboard.png` — Dashboard preview.
+- `dashboard.png` — Dashboard screenshot and visual preview.
+- `README.md` — Project documentation and key insights.
 
 ## 👨‍💻 Author
 
