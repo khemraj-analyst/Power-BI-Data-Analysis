@@ -18,7 +18,7 @@ This project explores salary trends, programming language preferences, job roles
 
 ## 📷 Dashboard Preview
 
-![Data Professional Survey Dashboard](screenshots/dashboard.png)
+![Data Professional Survey Dashboard](dashboard.png)
 
 ## 📈 Key Performance Indicators (KPIs)
 
